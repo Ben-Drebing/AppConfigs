@@ -1,0 +1,46 @@
+{
+  "devtools_port" : 9090,
+  "licenseKey" : "fd56a4db-f11f-47ae-9fc0-83cfe4b5a96e",
+  "runtime" : {
+      "forceLatest" : true,
+      "version" : "stable"
+  },
+  "startup_app" : {
+        "name": "Hello OpenFin",
+        "url": "https://cdn.openfin.co/demos/hello/index.html",
+        "uuid": "OpenFinHelloWorld",
+        "applicationIcon": "https://cdn.openfin.co/demos/hello/img/openfin.ico",
+        "autoShow": false,
+        "defaultHeight": 525,
+        "defaultWidth": 395,
+        "maxWidth": 395,
+        "maxHeight": 525,
+        "defaultTop": 50,
+        "defaultLeft": 10,
+        "resizable": false,
+        "maximizable": false,
+        "frame": false,
+        "cornerRounding": {
+            "width": 5,
+            "height": 5
+        },
+        "permissions": {
+            "ExternalWindow": {
+              	"wrap": true
+            },
+            "System": {
+                "getAllExternalWindows": true,
+                "launchExternalProcess": true,
+                "readRegistryValue": false,
+                "terminateExternalProcess": true
+            }
+        }
+  },
+  "supportInformation" : {
+      "company" : "Ben Drebing Corp",
+      "email" : "ben.drebing@openfin.co",
+      "product" : "My App"
+  }
+    
+
+}
