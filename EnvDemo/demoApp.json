@@ -2,7 +2,7 @@
     "devtools_port": 9090,
     "startup_app": {
         "name": "DemoApp",
-        "url": "http://localhost:8000/demoApp.html",
+        "url": "http://localhost:8000/EnvDemo/demoApp.html",
         "uuid": "DemoApp",
         "applicationIcon": "https://iconarchive.com/download/i85547/graphicloads/100-flat/bank.ico",
         "autoShow": true,
