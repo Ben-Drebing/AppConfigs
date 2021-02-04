@@ -2,7 +2,7 @@
     "devtools_port": 9090,
     "startup_app": {
         "name": "DemoApp",
-        "url": "https://raw.github.com/Ben-Drebing/AppConfigs/demoApp.html",
+        "url": "https://raw.github.com/Ben-Drebing/AppConfigs/EnvDemo/demoApp.html",
         "uuid": "DemoApp",
         "applicationIcon": "https://iconarchive.com/download/i85547/graphicloads/100-flat/bank.ico",
         "autoShow": true,
